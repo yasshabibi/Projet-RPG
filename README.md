@@ -23,7 +23,7 @@ Son but est une fois de plus vivre une aventure incroyable dans un monde sombre 
 - Gestion du heal
 - Gestion de l'inventaire 
 - Enigme du pont
-- Easter Egg Lord Pouic (question/réponse + combat)
+- Easter Egg Lord Pouic (questions/réponses + combat)
 - Combat Boss Final
 - Gestion des erreurs d'input
 
@@ -35,7 +35,7 @@ Julien VERITE:
 - LordPouic
 
 Mathias BOUILLON:
-- Map et déplacement
+- Map et déplacements
 - Combat
 - Lord Pouic
 
